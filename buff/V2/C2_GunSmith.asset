@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2131d13876f3f7e46b4df307dd141e4a, type: 3}
+  m_Name: C2_GunSmith
+  m_EditorClassIdentifier: 
+  icon: {fileID: 1848956778, guid: c4eb286a5341b754cb575881b7d6e3a8, type: 3}
+  Unlock: 0
+  des: 'Add Addition Projectile By 1
+
+    Increase Ammo By 1'
+  Part: 
+  nama: GunSmith
+  projectileBonus: 1
+  projectileScale: 0
+  projectileSpread: 0
+  projectileSpeed: 0
+  projectiledamage: 0
+  ReloadSpeed: 0
+  ammo: 1
+  crit_change: 0
+  crit_damage: 0
+  fps: 0
+  movement: 0
+  bounce_count: 0
+  ricochet_count: 0
+  explode_shard: 0
